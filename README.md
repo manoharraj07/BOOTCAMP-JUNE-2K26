@@ -1,2 +1,2 @@
 # BOOTCAMP-JUNE-2K26
-Learning Python for scratch from this boot camp conducted inn our college 
+Learning Python form scratch from this boot camp conducted in our college 
